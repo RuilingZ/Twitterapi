@@ -3,13 +3,13 @@
 The product allows political teams, sponsors and members of the public to retrieve tweets and analyze their mood by using Twitter API and Goggle NLP. It can tell how citizens react to a politician's speech or policy. So the users can adjust political strategy in time.
 
 ## User
-sponsors
+Sponsors
 
-advisers
+Advisers
 
 Team of politicians
 
-the public
+The public
 
 ## User Stories
 As a sponsor, I can search for the public's attitude toward a politician and decide whether to fund that politician.
